@@ -1,0 +1,15 @@
+# Bağımlılıklar
+node_modules
+dist
+dist-ssr
+
+# Loglar
+*.log
+npm-debug.log*
+
+# Düzenleyici / sistem
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.local
