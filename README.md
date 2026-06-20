@@ -31,14 +31,7 @@ Backend yok — tüm veriler tarayıcının **LocalStorage**'ında yaşar.
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| <img src="src/images/Giri%C5%9F%20Ekran%C4%B1.png" width="280"/> | <img src="src/images/%C3%9Cr%C3%BCn%20Listesi.png" width="280"/> |
-| **Giriş Ekranı** | **Ürün Listesi** |
-| <img src="src/images/%C3%9Cr%C3%BCn%20Ekleme.png" width="280"/> | <img src="src/images/%C3%9Cr%C3%BCn%20D%C3%BCzenleme%20ve%20Detay%20Sayfas%C4%B1.png" width="280"/> |
-| **Ürün Ekleme** | **Ürün Düzenleme** |
-| <img src="src/images/Silme%20%C4%B0%C5%9Flemi.png" width="280"/> | <img src="src/images/%C3%9Cr%C3%BCn%20Listesi%20Kontrol.png" width="280"/> |
-| **Silme İşlemi** | **Liste Kontrolü** |
+<img src="src/images/KahveOrman_Ekranlar.png" width="100%" alt="KahveOrman ekranları: Giriş · Ürün Listesi · Ürün Ekleme · Ürün Düzenleme · Silme İşlemi · Liste Kontrolü"/>
 
 </div>
 
